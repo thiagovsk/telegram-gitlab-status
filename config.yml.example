@@ -1,0 +1,4 @@
+# Place all informations here
+bot_token: #telegram bot token 
+gitlab_private_token: #gitlab private token 
+
